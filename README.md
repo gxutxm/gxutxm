@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gxutxm@gmail.com**
 
-- ⚡ Fun fact **I can cook you the best sandwich you'll ever have!**
+- ⚡ Fun fact **I can make you the best sandwich you'll ever have!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
