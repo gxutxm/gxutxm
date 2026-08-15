@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Monte Carlo Simulation<br>👯 I’m looking to collaborate on Quant Projects<br>🤝 I’m looking for help with Stochastic Calculus<br>🌱 I’m currently learning Basket Trading using Bayesian Optimization<br>⚡ Fun fact - I am Batman
-
+🔭 I’m currently working on Monte Carlo Simulation<br>👯 I’m looking to collaborate on Quant Projects<br>🤝 I’m looking for help with Stochastic Calculus<br>🌱 I’m currently learning Basket Trading using Bayesian Optimization<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gxutxm77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gautamgovindarasan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautamgovindarasan@gmail.com) 
